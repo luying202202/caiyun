@@ -1,0 +1,5 @@
+*.csv
+.idea/
+.arts/
+__pycache__/
+*.pyc

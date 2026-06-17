@@ -1,0 +1,3 @@
+[      76ms] [ERROR] Failed to load resource: the server responded with a status of 404 (NOT FOUND) @ http://127.0.0.1:5000/favicon.ico:0
+[    1760ms] [LOG] [nav] switchPage: page-520 loaded: true @ http://127.0.0.1:5000/:1180
+[    1760ms] [LOG] [nav] page already loaded, skip fetch @ http://127.0.0.1:5000/:1198

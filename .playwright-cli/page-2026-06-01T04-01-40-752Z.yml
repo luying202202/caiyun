@@ -1,0 +1,1582 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: A
+        - generic [ref=e6]: A股资金
+      - generic [ref=e7]:
+        - generic [ref=e8] [cursor=pointer]:
+          - img [ref=e9]
+          - generic [ref=e14]: 板块
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e16]
+          - generic [ref=e18]: 智能选股
+        - generic [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+          - generic [ref=e23]: 个股诊断
+        - generic [ref=e24] [cursor=pointer]:
+          - img [ref=e25]
+          - generic [ref=e27]: 520战法
+    - generic [ref=e29]:
+      - banner [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]: A
+          - heading "A股板块资金流向" [level=1] [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e36]: 12:01:40
+          - generic [ref=e37]: 数据 2026-06-01 12:00:37
+          - button "刷新" [ref=e38] [cursor=pointer]:
+            - img [ref=e39]
+            - text: 刷新
+      - generic [ref=e526]:
+        - generic [ref=e527]: 520选股战法 · MACD金叉
+        - generic [ref=e528]: "更新时间: 2026-06-01 11:55:49 | 扫描150只 | MACD(12,26,9)金叉: DIF上穿DEA | 非ST | 主板股"
+        - table [ref=e530]:
+          - rowgroup [ref=e531]:
+            - row "排名 代码 名称 现价 涨跌 换手 主力(亿) DIF DEA MACD 金叉日 位置 量比" [ref=e532]:
+              - columnheader "排名" [ref=e533]
+              - columnheader "代码" [ref=e534]
+              - columnheader "名称" [ref=e535]
+              - columnheader "现价" [ref=e536]
+              - columnheader "涨跌" [ref=e537]
+              - columnheader "换手" [ref=e538]
+              - columnheader "主力(亿)" [ref=e539]
+              - columnheader "DIF" [ref=e540]
+              - columnheader "DEA" [ref=e541]
+              - columnheader "MACD" [ref=e542]
+              - columnheader "金叉日" [ref=e543]
+              - columnheader "位置" [ref=e544]
+              - columnheader "量比" [ref=e545]
+          - rowgroup [ref=e546]:
+            - row "1 002028 思源电气 216.42 +7.06% 2.39% 0.75 0.045 -1.536 3.162 昨3日 零轴 1.05" [ref=e547]:
+              - cell "1" [ref=e548]
+              - cell "002028" [ref=e549] [cursor=pointer]
+              - cell "思源电气" [ref=e550] [cursor=pointer]
+              - cell "216.42" [ref=e551]
+              - cell "+7.06%" [ref=e552]:
+                - generic [ref=e553]: +7.06%
+              - cell "2.39%" [ref=e554]
+              - cell "0.75" [ref=e555]
+              - cell "0.045" [ref=e556]
+              - cell "-1.536" [ref=e557]
+              - cell "3.162" [ref=e558]
+              - cell "昨3日" [ref=e559]
+              - cell "零轴" [ref=e560]
+              - cell "1.05" [ref=e561]
+            - row "2 600519 贵州茅台 1302.22 -1.79% 0.24% 9.19 -30.285 -31.76 2.951 昨2日 零下 1.11" [ref=e562]:
+              - cell "2" [ref=e563]
+              - cell "600519" [ref=e564] [cursor=pointer]
+              - cell "贵州茅台" [ref=e565] [cursor=pointer]
+              - cell "1302.22" [ref=e566]
+              - cell "-1.79%" [ref=e567]:
+                - generic [ref=e568]: "-1.79%"
+              - cell "0.24%" [ref=e569]
+              - cell "9.19" [ref=e570]
+              - cell "-30.285" [ref=e571]
+              - cell "-31.76" [ref=e572]
+              - cell "2.951" [ref=e573]
+              - cell "昨2日" [ref=e574]
+              - cell "零下" [ref=e575]
+              - cell "1.11" [ref=e576]
+            - row "3 301360 荣旗科技 76.75 -12.49% 24.12% 0.67 3.966 3.28 1.372 昨2日 零上 1.82" [ref=e577]:
+              - cell "3" [ref=e578]
+              - cell "301360" [ref=e579] [cursor=pointer]
+              - cell "荣旗科技" [ref=e580] [cursor=pointer]
+              - cell "76.75" [ref=e581]
+              - cell "-12.49%" [ref=e582]:
+                - generic [ref=e583]: "-12.49%"
+              - cell "24.12%" [ref=e584]
+              - cell "0.67" [ref=e585]
+              - cell "3.966" [ref=e586]
+              - cell "3.28" [ref=e587]
+              - cell "1.372" [ref=e588]
+              - cell "昨2日" [ref=e589]
+              - cell "零上" [ref=e590]
+              - cell "1.82" [ref=e591]
+            - row "4 603011 合锻智能 27.41 +9.99% 6.67% 3.73 0.657 0.029 1.256 昨3日 零上 1.64" [ref=e592]:
+              - cell "4" [ref=e593]
+              - cell "603011" [ref=e594] [cursor=pointer]
+              - cell "合锻智能" [ref=e595] [cursor=pointer]
+              - cell "27.41" [ref=e596]
+              - cell "+9.99%" [ref=e597]:
+                - generic [ref=e598]: +9.99%
+              - cell "6.67%" [ref=e599]
+              - cell "3.73" [ref=e600]
+              - cell "0.657" [ref=e601]
+              - cell "0.029" [ref=e602]
+              - cell "1.256" [ref=e603]
+              - cell "昨3日" [ref=e604]
+              - cell "零上" [ref=e605]
+              - cell "1.64" [ref=e606]
+            - row "5 301439 泓淋电力 23.48 +19.98% 28.66% 0.94 0.843 0.375 0.935 昨2日 零上 1.93" [ref=e607]:
+              - cell "5" [ref=e608]
+              - cell "301439" [ref=e609] [cursor=pointer]
+              - cell "泓淋电力" [ref=e610] [cursor=pointer]
+              - cell "23.48" [ref=e611]
+              - cell "+19.98%" [ref=e612]:
+                - generic [ref=e613]: +19.98%
+              - cell "28.66%" [ref=e614]
+              - cell "0.94" [ref=e615]
+              - cell "0.843" [ref=e616]
+              - cell "0.375" [ref=e617]
+              - cell "0.935" [ref=e618]
+              - cell "昨2日" [ref=e619]
+              - cell "零上" [ref=e620]
+              - cell "1.93" [ref=e621]
+            - row "6 000799 酒鬼酒 45.7 -0.09% 7.41% 3.83 0.19 -0.208 0.797 昨2日 零下 1.66" [ref=e622]:
+              - cell "6" [ref=e623]
+              - cell "000799" [ref=e624] [cursor=pointer]
+              - cell "酒鬼酒" [ref=e625] [cursor=pointer]
+              - cell "45.7" [ref=e626]
+              - cell "-0.09%" [ref=e627]:
+                - generic [ref=e628]: "-0.09%"
+              - cell "7.41%" [ref=e629]
+              - cell "3.83" [ref=e630]
+              - cell "0.19" [ref=e631]
+              - cell "-0.208" [ref=e632]
+              - cell "0.797" [ref=e633]
+              - cell "昨2日" [ref=e634]
+              - cell "零下" [ref=e635]
+              - cell "1.66" [ref=e636]
+            - row "7 301231 荣信文化 33.91 +0.65% 14.62% 0.25 0.306 -0.06 0.731 昨2日 零下 1.37" [ref=e637]:
+              - cell "7" [ref=e638]
+              - cell "301231" [ref=e639] [cursor=pointer]
+              - cell "荣信文化" [ref=e640] [cursor=pointer]
+              - cell "33.91" [ref=e641]
+              - cell "+0.65%" [ref=e642]:
+                - generic [ref=e643]: +0.65%
+              - cell "14.62%" [ref=e644]
+              - cell "0.25" [ref=e645]
+              - cell "0.306" [ref=e646]
+              - cell "-0.06" [ref=e647]
+              - cell "0.731" [ref=e648]
+              - cell "昨2日" [ref=e649]
+              - cell "零下" [ref=e650]
+              - cell "1.37" [ref=e651]
+            - row "8 603319 美湖股份 37.93 +4.75% 8.03% 2.12 0.116 -0.217 0.664 昨2日 零下 0.95" [ref=e652]:
+              - cell "8" [ref=e653]
+              - cell "603319" [ref=e654] [cursor=pointer]
+              - cell "美湖股份" [ref=e655] [cursor=pointer]
+              - cell "37.93" [ref=e656]
+              - cell "+4.75%" [ref=e657]:
+                - generic [ref=e658]: +4.75%
+              - cell "8.03%" [ref=e659]
+              - cell "2.12" [ref=e660]
+              - cell "0.116" [ref=e661]
+              - cell "-0.217" [ref=e662]
+              - cell "0.664" [ref=e663]
+              - cell "昨2日" [ref=e664]
+              - cell "零下" [ref=e665]
+              - cell "0.95" [ref=e666]
+            - row "9 301557 常友科技 89.05 +1.98% 7.31% 0.14 2.496 2.187 0.619 今日 零上 1.23" [ref=e667]:
+              - cell "9" [ref=e668]
+              - cell "301557" [ref=e669] [cursor=pointer]
+              - cell "常友科技" [ref=e670] [cursor=pointer]
+              - cell "89.05" [ref=e671]
+              - cell "+1.98%" [ref=e672]:
+                - generic [ref=e673]: +1.98%
+              - cell "7.31%" [ref=e674]
+              - cell "0.14" [ref=e675]
+              - cell "2.496" [ref=e676]
+              - cell "2.187" [ref=e677]
+              - cell "0.619" [ref=e678]
+              - cell "今日" [ref=e679]
+              - cell "零上" [ref=e680]
+              - cell "1.23" [ref=e681]
+            - row "10 002995 天地在线 25.11 +9.99% 25.67% 0.78 -0.349 -0.655 0.612 昨2日 零下 1.35" [ref=e682]:
+              - cell "10" [ref=e683]
+              - cell "002995" [ref=e684] [cursor=pointer]
+              - cell "天地在线" [ref=e685] [cursor=pointer]
+              - cell "25.11" [ref=e686]
+              - cell "+9.99%" [ref=e687]:
+                - generic [ref=e688]: +9.99%
+              - cell "25.67%" [ref=e689]
+              - cell "0.78" [ref=e690]
+              - cell "-0.349" [ref=e691]
+              - cell "-0.655" [ref=e692]
+              - cell "0.612" [ref=e693]
+              - cell "昨2日" [ref=e694]
+              - cell "零下" [ref=e695]
+              - cell "1.35" [ref=e696]
+            - row "11 002294 信立泰 32.93 -1.47% 0.96% 0.15 -5.498 -5.796 0.595 昨3日 零下 0.76" [ref=e697]:
+              - cell "11" [ref=e698]
+              - cell "002294" [ref=e699] [cursor=pointer]
+              - cell "信立泰" [ref=e700] [cursor=pointer]
+              - cell "32.93" [ref=e701]
+              - cell "-1.47%" [ref=e702]:
+                - generic [ref=e703]: "-1.47%"
+              - cell "0.96%" [ref=e704]
+              - cell "0.15" [ref=e705]
+              - cell "-5.498" [ref=e706]
+              - cell "-5.796" [ref=e707]
+              - cell "0.595" [ref=e708]
+              - cell "昨3日" [ref=e709]
+              - cell "零下" [ref=e710]
+              - cell "0.76" [ref=e711]
+            - row "12 601088 中国神华 48.59 +3.56% 0.22% 3.27 0.1 -0.193 0.587 昨3日 零下 1.15" [ref=e712]:
+              - cell "12" [ref=e713]
+              - cell "601088" [ref=e714] [cursor=pointer]
+              - cell "中国神华" [ref=e715] [cursor=pointer]
+              - cell "48.59" [ref=e716]
+              - cell "+3.56%" [ref=e717]:
+                - generic [ref=e718]: +3.56%
+              - cell "0.22%" [ref=e719]
+              - cell "3.27" [ref=e720]
+              - cell "0.1" [ref=e721]
+              - cell "-0.193" [ref=e722]
+              - cell "0.587" [ref=e723]
+              - cell "昨3日" [ref=e724]
+              - cell "零下" [ref=e725]
+              - cell "1.15" [ref=e726]
+            - row "13 001314 亿道信息 64.46 +10.00% 3.33% 0.24 3.423 3.136 0.575 今日 零上 1.19" [ref=e727]:
+              - cell "13" [ref=e728]
+              - cell "001314" [ref=e729] [cursor=pointer]
+              - cell "亿道信息" [ref=e730] [cursor=pointer]
+              - cell "64.46" [ref=e731]
+              - cell "+10.00%" [ref=e732]:
+                - generic [ref=e733]: +10.00%
+              - cell "3.33%" [ref=e734]
+              - cell "0.24" [ref=e735]
+              - cell "3.423" [ref=e736]
+              - cell "3.136" [ref=e737]
+              - cell "0.575" [ref=e738]
+              - cell "今日" [ref=e739]
+              - cell "零上" [ref=e740]
+              - cell "1.19" [ref=e741]
+            - row "14 300486 东杰智能 25.29 +1.40% 6.9% 1.5 -0.073 -0.318 0.49 昨2日 零轴 1.55" [ref=e742]:
+              - cell "14" [ref=e743]
+              - cell "300486" [ref=e744] [cursor=pointer]
+              - cell "东杰智能" [ref=e745] [cursor=pointer]
+              - cell "25.29" [ref=e746]
+              - cell "+1.40%" [ref=e747]:
+                - generic [ref=e748]: +1.40%
+              - cell "6.9%" [ref=e749]
+              - cell "1.5" [ref=e750]
+              - cell "-0.073" [ref=e751]
+              - cell "-0.318" [ref=e752]
+              - cell "0.49" [ref=e753]
+              - cell "昨2日" [ref=e754]
+              - cell "零轴" [ref=e755]
+              - cell "1.55" [ref=e756]
+            - row "15 002039 黔源电力 22.46 -3.11% 5.11% 0.23 0.511 0.267 0.487 昨3日 零上 1.32" [ref=e757]:
+              - cell "15" [ref=e758]
+              - cell "002039" [ref=e759] [cursor=pointer]
+              - cell "黔源电力" [ref=e760] [cursor=pointer]
+              - cell "22.46" [ref=e761]
+              - cell "-3.11%" [ref=e762]:
+                - generic [ref=e763]: "-3.11%"
+              - cell "5.11%" [ref=e764]
+              - cell "0.23" [ref=e765]
+              - cell "0.511" [ref=e766]
+              - cell "0.267" [ref=e767]
+              - cell "0.487" [ref=e768]
+              - cell "昨3日" [ref=e769]
+              - cell "零上" [ref=e770]
+              - cell "1.32" [ref=e771]
+            - row "16 300913 兆龙互连 61.52 +3.66% 7.79% 0.73 0.818 0.575 0.485 今日 零上 1.41" [ref=e772]:
+              - cell "16" [ref=e773]
+              - cell "300913" [ref=e774] [cursor=pointer]
+              - cell "兆龙互连" [ref=e775] [cursor=pointer]
+              - cell "61.52" [ref=e776]
+              - cell "+3.66%" [ref=e777]:
+                - generic [ref=e778]: +3.66%
+              - cell "7.79%" [ref=e779]
+              - cell "0.73" [ref=e780]
+              - cell "0.818" [ref=e781]
+              - cell "0.575" [ref=e782]
+              - cell "0.485" [ref=e783]
+              - cell "今日" [ref=e784]
+              - cell "零上" [ref=e785]
+              - cell "1.41" [ref=e786]
+            - row "17 300596 利安隆 47.11 +0.45% 1.85% 0.3 0.795 0.559 0.472 昨3日 零上 1.13" [ref=e787]:
+              - cell "17" [ref=e788]
+              - cell "300596" [ref=e789] [cursor=pointer]
+              - cell "利安隆" [ref=e790] [cursor=pointer]
+              - cell "47.11" [ref=e791]
+              - cell "+0.45%" [ref=e792]:
+                - generic [ref=e793]: +0.45%
+              - cell "1.85%" [ref=e794]
+              - cell "0.3" [ref=e795]
+              - cell "0.795" [ref=e796]
+              - cell "0.559" [ref=e797]
+              - cell "0.472" [ref=e798]
+              - cell "昨3日" [ref=e799]
+              - cell "零上" [ref=e800]
+              - cell "1.13" [ref=e801]
+            - row "18 000539 粤电力Ａ 9.76 +9.91% 16.11% 1.23 0.522 0.289 0.465 昨3日 零上 1.14" [ref=e802]:
+              - cell "18" [ref=e803]
+              - cell "000539" [ref=e804] [cursor=pointer]
+              - cell "粤电力Ａ" [ref=e805] [cursor=pointer]
+              - cell "9.76" [ref=e806]
+              - cell "+9.91%" [ref=e807]:
+                - generic [ref=e808]: +9.91%
+              - cell "16.11%" [ref=e809]
+              - cell "1.23" [ref=e810]
+              - cell "0.522" [ref=e811]
+              - cell "0.289" [ref=e812]
+              - cell "0.465" [ref=e813]
+              - cell "昨3日" [ref=e814]
+              - cell "零上" [ref=e815]
+              - cell "1.14" [ref=e816]
+            - row "19 600110 诺德股份 12.51 -1.18% 13.57% 3.59 0.413 0.187 0.453 昨3日 零上 1.45" [ref=e817]:
+              - cell "19" [ref=e818]
+              - cell "600110" [ref=e819] [cursor=pointer]
+              - cell "诺德股份" [ref=e820] [cursor=pointer]
+              - cell "12.51" [ref=e821]
+              - cell "-1.18%" [ref=e822]:
+                - generic [ref=e823]: "-1.18%"
+              - cell "13.57%" [ref=e824]
+              - cell "3.59" [ref=e825]
+              - cell "0.413" [ref=e826]
+              - cell "0.187" [ref=e827]
+              - cell "0.453" [ref=e828]
+              - cell "昨3日" [ref=e829]
+              - cell "零上" [ref=e830]
+              - cell "1.45" [ref=e831]
+            - row "20 601888 中国中免 58.07 -2.53% 2.83% 9.87 -2.384 -2.587 0.406 昨2日 零下 1.53" [ref=e832]:
+              - cell "20" [ref=e833]
+              - cell "601888" [ref=e834] [cursor=pointer]
+              - cell "中国中免" [ref=e835] [cursor=pointer]
+              - cell "58.07" [ref=e836]
+              - cell "-2.53%" [ref=e837]:
+                - generic [ref=e838]: "-2.53%"
+              - cell "2.83%" [ref=e839]
+              - cell "9.87" [ref=e840]
+              - cell "-2.384" [ref=e841]
+              - cell "-2.587" [ref=e842]
+              - cell "0.406" [ref=e843]
+              - cell "昨2日" [ref=e844]
+              - cell "零下" [ref=e845]
+              - cell "1.53" [ref=e846]
+            - row "21 000037 深南电A 12.65 +10.00% 27.92% 1.41 -0.005 -0.202 0.395 昨2日 零轴 1.18" [ref=e847]:
+              - cell "21" [ref=e848]
+              - cell "000037" [ref=e849] [cursor=pointer]
+              - cell "深南电A" [ref=e850] [cursor=pointer]
+              - cell "12.65" [ref=e851]
+              - cell "+10.00%" [ref=e852]:
+                - generic [ref=e853]: +10.00%
+              - cell "27.92%" [ref=e854]
+              - cell "1.41" [ref=e855]
+              - cell "-0.005" [ref=e856]
+              - cell "-0.202" [ref=e857]
+              - cell "0.395" [ref=e858]
+              - cell "昨2日" [ref=e859]
+              - cell "零轴" [ref=e860]
+              - cell "1.18" [ref=e861]
+            - row "22 300685 艾德生物 20.41 +1.34% 3.49% 0.24 -0.397 -0.591 0.387 昨3日 零下 1.50" [ref=e862]:
+              - cell "22" [ref=e863]
+              - cell "300685" [ref=e864] [cursor=pointer]
+              - cell "艾德生物" [ref=e865] [cursor=pointer]
+              - cell "20.41" [ref=e866]
+              - cell "+1.34%" [ref=e867]:
+                - generic [ref=e868]: +1.34%
+              - cell "3.49%" [ref=e869]
+              - cell "0.24" [ref=e870]
+              - cell "-0.397" [ref=e871]
+              - cell "-0.591" [ref=e872]
+              - cell "0.387" [ref=e873]
+              - cell "昨3日" [ref=e874]
+              - cell "零下" [ref=e875]
+              - cell "1.50" [ref=e876]
+            - row "23 605277 新亚电子 26.09 +5.97% 14.58% 1.09 0.133 -0.043 0.352 今日 零下 1.71" [ref=e877]:
+              - cell "23" [ref=e878]
+              - cell "605277" [ref=e879] [cursor=pointer]
+              - cell "新亚电子" [ref=e880] [cursor=pointer]
+              - cell "26.09" [ref=e881]
+              - cell "+5.97%" [ref=e882]:
+                - generic [ref=e883]: +5.97%
+              - cell "14.58%" [ref=e884]
+              - cell "1.09" [ref=e885]
+              - cell "0.133" [ref=e886]
+              - cell "-0.043" [ref=e887]
+              - cell "0.352" [ref=e888]
+              - cell "今日" [ref=e889]
+              - cell "零下" [ref=e890]
+              - cell "1.71" [ref=e891]
+            - row "24 000151 中成股份 13.85 +4.06% 9.74% 0.79 0.276 0.107 0.338 昨2日 零上 1.76" [ref=e892]:
+              - cell "24" [ref=e893]
+              - cell "000151" [ref=e894] [cursor=pointer]
+              - cell "中成股份" [ref=e895] [cursor=pointer]
+              - cell "13.85" [ref=e896]
+              - cell "+4.06%" [ref=e897]:
+                - generic [ref=e898]: +4.06%
+              - cell "9.74%" [ref=e899]
+              - cell "0.79" [ref=e900]
+              - cell "0.276" [ref=e901]
+              - cell "0.107" [ref=e902]
+              - cell "0.338" [ref=e903]
+              - cell "昨2日" [ref=e904]
+              - cell "零上" [ref=e905]
+              - cell "1.76" [ref=e906]
+            - row "25 300327 中颖电子 30.12 -4.17% 7.44% 1.81 1.003 0.839 0.328 昨3日 零上 1.89" [ref=e907]:
+              - cell "25" [ref=e908]
+              - cell "300327" [ref=e909] [cursor=pointer]
+              - cell "中颖电子" [ref=e910] [cursor=pointer]
+              - cell "30.12" [ref=e911]
+              - cell "-4.17%" [ref=e912]:
+                - generic [ref=e913]: "-4.17%"
+              - cell "7.44%" [ref=e914]
+              - cell "1.81" [ref=e915]
+              - cell "1.003" [ref=e916]
+              - cell "0.839" [ref=e917]
+              - cell "0.328" [ref=e918]
+              - cell "昨3日" [ref=e919]
+              - cell "零上" [ref=e920]
+              - cell "1.89" [ref=e921]
+            - row "26 300997 欢乐家 19.7 +2.28% 3.68% 0.45 -0.299 -0.461 0.324 昨2日 零下 1.80" [ref=e922]:
+              - cell "26" [ref=e923]
+              - cell "300997" [ref=e924] [cursor=pointer]
+              - cell "欢乐家" [ref=e925] [cursor=pointer]
+              - cell "19.7" [ref=e926]
+              - cell "+2.28%" [ref=e927]:
+                - generic [ref=e928]: +2.28%
+              - cell "3.68%" [ref=e929]
+              - cell "0.45" [ref=e930]
+              - cell "-0.299" [ref=e931]
+              - cell "-0.461" [ref=e932]
+              - cell "0.324" [ref=e933]
+              - cell "昨2日" [ref=e934]
+              - cell "零下" [ref=e935]
+              - cell "1.80" [ref=e936]
+            - row "27 601699 潞安环能 17.6 +10.00% 1.75% 0.23 0.421 0.27 0.303 昨2日 零上 1.15" [ref=e937]:
+              - cell "27" [ref=e938]
+              - cell "601699" [ref=e939] [cursor=pointer]
+              - cell "潞安环能" [ref=e940] [cursor=pointer]
+              - cell "17.6" [ref=e941]
+              - cell "+10.00%" [ref=e942]:
+                - generic [ref=e943]: +10.00%
+              - cell "1.75%" [ref=e944]
+              - cell "0.23" [ref=e945]
+              - cell "0.421" [ref=e946]
+              - cell "0.27" [ref=e947]
+              - cell "0.303" [ref=e948]
+              - cell "昨2日" [ref=e949]
+              - cell "零上" [ref=e950]
+              - cell "1.15" [ref=e951]
+            - row "28 001229 魅视科技 38.18 +3.78% 3.12% 0.08 -0.123 -0.27 0.294 今日 零下 1.04" [ref=e952]:
+              - cell "28" [ref=e953]
+              - cell "001229" [ref=e954] [cursor=pointer]
+              - cell "魅视科技" [ref=e955] [cursor=pointer]
+              - cell "38.18" [ref=e956]
+              - cell "+3.78%" [ref=e957]:
+                - generic [ref=e958]: +3.78%
+              - cell "3.12%" [ref=e959]
+              - cell "0.08" [ref=e960]
+              - cell "-0.123" [ref=e961]
+              - cell "-0.27" [ref=e962]
+              - cell "0.294" [ref=e963]
+              - cell "今日" [ref=e964]
+              - cell "零下" [ref=e965]
+              - cell "1.04" [ref=e966]
+            - row "29 601001 晋控煤业 20.2 +10.02% 1.91% 0.24 0.247 0.101 0.292 今日 零上 1.04" [ref=e967]:
+              - cell "29" [ref=e968]
+              - cell "601001" [ref=e969] [cursor=pointer]
+              - cell "晋控煤业" [ref=e970] [cursor=pointer]
+              - cell "20.2" [ref=e971]
+              - cell "+10.02%" [ref=e972]:
+                - generic [ref=e973]: +10.02%
+              - cell "1.91%" [ref=e974]
+              - cell "0.24" [ref=e975]
+              - cell "0.247" [ref=e976]
+              - cell "0.101" [ref=e977]
+              - cell "0.292" [ref=e978]
+              - cell "今日" [ref=e979]
+              - cell "零上" [ref=e980]
+              - cell "1.04" [ref=e981]
+            - row "30 601918 新集能源 10.88 +6.15% 3.79% 0.89 0.49 0.346 0.289 昨3日 零上 1.24" [ref=e982]:
+              - cell "30" [ref=e983]
+              - cell "601918" [ref=e984] [cursor=pointer]
+              - cell "新集能源" [ref=e985] [cursor=pointer]
+              - cell "10.88" [ref=e986]
+              - cell "+6.15%" [ref=e987]:
+                - generic [ref=e988]: +6.15%
+              - cell "3.79%" [ref=e989]
+              - cell "0.89" [ref=e990]
+              - cell "0.49" [ref=e991]
+              - cell "0.346" [ref=e992]
+              - cell "0.289" [ref=e993]
+              - cell "昨3日" [ref=e994]
+              - cell "零上" [ref=e995]
+              - cell "1.24" [ref=e996]
+            - row "31 601101 昊华能源 13.27 +10.03% 3.5% 0.72 0.63 0.492 0.276 昨2日 零上 1.01" [ref=e997]:
+              - cell "31" [ref=e998]
+              - cell "601101" [ref=e999] [cursor=pointer]
+              - cell "昊华能源" [ref=e1000] [cursor=pointer]
+              - cell "13.27" [ref=e1001]
+              - cell "+10.03%" [ref=e1002]:
+                - generic [ref=e1003]: +10.03%
+              - cell "3.5%" [ref=e1004]
+              - cell "0.72" [ref=e1005]
+              - cell "0.63" [ref=e1006]
+              - cell "0.492" [ref=e1007]
+              - cell "0.276" [ref=e1008]
+              - cell "昨2日" [ref=e1009]
+              - cell "零上" [ref=e1010]
+              - cell "1.01" [ref=e1011]
+            - row "32 001286 陕西能源 13.21 +3.04% 3.46% 0.41 0.321 0.192 0.258 昨3日 零上 1.32" [ref=e1012]:
+              - cell "32" [ref=e1013]
+              - cell "001286" [ref=e1014] [cursor=pointer]
+              - cell "陕西能源" [ref=e1015] [cursor=pointer]
+              - cell "13.21" [ref=e1016]
+              - cell "+3.04%" [ref=e1017]:
+                - generic [ref=e1018]: +3.04%
+              - cell "3.46%" [ref=e1019]
+              - cell "0.41" [ref=e1020]
+              - cell "0.321" [ref=e1021]
+              - cell "0.192" [ref=e1022]
+              - cell "0.258" [ref=e1023]
+              - cell "昨3日" [ref=e1024]
+              - cell "零上" [ref=e1025]
+              - cell "1.32" [ref=e1026]
+            - row "33 603800 洪田股份 66.24 +7.25% 5.18% 0.46 4.137 4.017 0.24 今日 零上 1.06" [ref=e1027]:
+              - cell "33" [ref=e1028]
+              - cell "603800" [ref=e1029] [cursor=pointer]
+              - cell "洪田股份" [ref=e1030] [cursor=pointer]
+              - cell "66.24" [ref=e1031]
+              - cell "+7.25%" [ref=e1032]:
+                - generic [ref=e1033]: +7.25%
+              - cell "5.18%" [ref=e1034]
+              - cell "0.46" [ref=e1035]
+              - cell "4.137" [ref=e1036]
+              - cell "4.017" [ref=e1037]
+              - cell "0.24" [ref=e1038]
+              - cell "今日" [ref=e1039]
+              - cell "零上" [ref=e1040]
+              - cell "1.06" [ref=e1041]
+            - row "34 605499 东鹏饮料 148.71 +4.40% 1.01% 1.18 -2.213 -2.33 0.236 今日 零下 1.13" [ref=e1042]:
+              - cell "34" [ref=e1043]
+              - cell "605499" [ref=e1044] [cursor=pointer]
+              - cell "东鹏饮料" [ref=e1045] [cursor=pointer]
+              - cell "148.71" [ref=e1046]
+              - cell "+4.40%" [ref=e1047]:
+                - generic [ref=e1048]: +4.40%
+              - cell "1.01%" [ref=e1049]
+              - cell "1.18" [ref=e1050]
+              - cell "-2.213" [ref=e1051]
+              - cell "-2.33" [ref=e1052]
+              - cell "0.236" [ref=e1053]
+              - cell "今日" [ref=e1054]
+              - cell "零下" [ref=e1055]
+              - cell "1.13" [ref=e1056]
+            - row "35 301017 漱玉平民 14.76 +6.72% 5.26% 0.13 -0.127 -0.244 0.233 昨2日 零下 1.13" [ref=e1057]:
+              - cell "35" [ref=e1058]
+              - cell "301017" [ref=e1059] [cursor=pointer]
+              - cell "漱玉平民" [ref=e1060] [cursor=pointer]
+              - cell "14.76" [ref=e1061]
+              - cell "+6.72%" [ref=e1062]:
+                - generic [ref=e1063]: +6.72%
+              - cell "5.26%" [ref=e1064]
+              - cell "0.13" [ref=e1065]
+              - cell "-0.127" [ref=e1066]
+              - cell "-0.244" [ref=e1067]
+              - cell "0.233" [ref=e1068]
+              - cell "昨2日" [ref=e1069]
+              - cell "零下" [ref=e1070]
+              - cell "1.13" [ref=e1071]
+            - row "36 300120 经纬辉开 8.29 -0.12% 9.62% 0.68 0.097 -0.016 0.227 昨3日 零下 2.19" [ref=e1072]:
+              - cell "36" [ref=e1073]
+              - cell "300120" [ref=e1074] [cursor=pointer]
+              - cell "经纬辉开" [ref=e1075] [cursor=pointer]
+              - cell "8.29" [ref=e1076]
+              - cell "-0.12%" [ref=e1077]:
+                - generic [ref=e1078]: "-0.12%"
+              - cell "9.62%" [ref=e1079]
+              - cell "0.68" [ref=e1080]
+              - cell "0.097" [ref=e1081]
+              - cell "-0.016" [ref=e1082]
+              - cell "0.227" [ref=e1083]
+              - cell "昨3日" [ref=e1084]
+              - cell "零下" [ref=e1085]
+              - cell "2.19" [ref=e1086]
+            - row "37 301218 华是科技 38.38 +13.72% 12.59% 0.09 0.341 0.228 0.226 今日 零上 1.01" [ref=e1087]:
+              - cell "37" [ref=e1088]
+              - cell "301218" [ref=e1089] [cursor=pointer]
+              - cell "华是科技" [ref=e1090] [cursor=pointer]
+              - cell "38.38" [ref=e1091]
+              - cell "+13.72%" [ref=e1092]:
+                - generic [ref=e1093]: +13.72%
+              - cell "12.59%" [ref=e1094]
+              - cell "0.09" [ref=e1095]
+              - cell "0.341" [ref=e1096]
+              - cell "0.228" [ref=e1097]
+              - cell "0.226" [ref=e1098]
+              - cell "今日" [ref=e1099]
+              - cell "零上" [ref=e1100]
+              - cell "1.01" [ref=e1101]
+            - row "38 301321 翰博高新 32.71 -2.68% 4.46% 0.13 2.244 2.135 0.219 昨3日 零上 1.35" [ref=e1102]:
+              - cell "38" [ref=e1103]
+              - cell "301321" [ref=e1104] [cursor=pointer]
+              - cell "翰博高新" [ref=e1105] [cursor=pointer]
+              - cell "32.71" [ref=e1106]
+              - cell "-2.68%" [ref=e1107]:
+                - generic [ref=e1108]: "-2.68%"
+              - cell "4.46%" [ref=e1109]
+              - cell "0.13" [ref=e1110]
+              - cell "2.244" [ref=e1111]
+              - cell "2.135" [ref=e1112]
+              - cell "0.219" [ref=e1113]
+              - cell "昨3日" [ref=e1114]
+              - cell "零上" [ref=e1115]
+              - cell "1.35" [ref=e1116]
+            - row "39 600188 兖矿能源 23.36 +7.16% 1.16% 0.43 0.383 0.275 0.217 今日 零上 0.97" [ref=e1117]:
+              - cell "39" [ref=e1118]
+              - cell "600188" [ref=e1119] [cursor=pointer]
+              - cell "兖矿能源" [ref=e1120] [cursor=pointer]
+              - cell "23.36" [ref=e1121]
+              - cell "+7.16%" [ref=e1122]:
+                - generic [ref=e1123]: +7.16%
+              - cell "1.16%" [ref=e1124]
+              - cell "0.43" [ref=e1125]
+              - cell "0.383" [ref=e1126]
+              - cell "0.275" [ref=e1127]
+              - cell "0.217" [ref=e1128]
+              - cell "今日" [ref=e1129]
+              - cell "零上" [ref=e1130]
+              - cell "0.97" [ref=e1131]
+            - row "40 600036 招商银行 37.97 -0.11% 0.27% 8.3 -0.38 -0.486 0.211 昨2日 零下 1.06" [ref=e1132]:
+              - cell "40" [ref=e1133]
+              - cell "600036" [ref=e1134] [cursor=pointer]
+              - cell "招商银行" [ref=e1135] [cursor=pointer]
+              - cell "37.97" [ref=e1136]
+              - cell "-0.11%" [ref=e1137]:
+                - generic [ref=e1138]: "-0.11%"
+              - cell "0.27%" [ref=e1139]
+              - cell "8.3" [ref=e1140]
+              - cell "-0.38" [ref=e1141]
+              - cell "-0.486" [ref=e1142]
+              - cell "0.211" [ref=e1143]
+              - cell "昨2日" [ref=e1144]
+              - cell "零下" [ref=e1145]
+              - cell "1.06" [ref=e1146]
+            - row "41 003006 百亚股份 17.04 -0.23% 0.94% 0.15 -0.268 -0.365 0.195 昨2日 零下 1.38" [ref=e1147]:
+              - cell "41" [ref=e1148]
+              - cell "003006" [ref=e1149] [cursor=pointer]
+              - cell "百亚股份" [ref=e1150] [cursor=pointer]
+              - cell "17.04" [ref=e1151]
+              - cell "-0.23%" [ref=e1152]:
+                - generic [ref=e1153]: "-0.23%"
+              - cell "0.94%" [ref=e1154]
+              - cell "0.15" [ref=e1155]
+              - cell "-0.268" [ref=e1156]
+              - cell "-0.365" [ref=e1157]
+              - cell "0.195" [ref=e1158]
+              - cell "昨2日" [ref=e1159]
+              - cell "零下" [ref=e1160]
+              - cell "1.38" [ref=e1161]
+            - row "42 002527 新时达 15.46 +10.04% 7.95% 0.94 0.26 0.165 0.189 今日 零上 1.52" [ref=e1162]:
+              - cell "42" [ref=e1163]
+              - cell "002527" [ref=e1164] [cursor=pointer]
+              - cell "新时达" [ref=e1165] [cursor=pointer]
+              - cell "15.46" [ref=e1166]
+              - cell "+10.04%" [ref=e1167]:
+                - generic [ref=e1168]: +10.04%
+              - cell "7.95%" [ref=e1169]
+              - cell "0.94" [ref=e1170]
+              - cell "0.26" [ref=e1171]
+              - cell "0.165" [ref=e1172]
+              - cell "0.189" [ref=e1173]
+              - cell "今日" [ref=e1174]
+              - cell "零上" [ref=e1175]
+              - cell "1.52" [ref=e1176]
+            - row "43 605177 东亚药业 23.35 -1.77% 8.03% 0.46 0.408 0.316 0.183 昨2日 零上 1.55" [ref=e1177]:
+              - cell "43" [ref=e1178]
+              - cell "605177" [ref=e1179] [cursor=pointer]
+              - cell "东亚药业" [ref=e1180] [cursor=pointer]
+              - cell "23.35" [ref=e1181]
+              - cell "-1.77%" [ref=e1182]:
+                - generic [ref=e1183]: "-1.77%"
+              - cell "8.03%" [ref=e1184]
+              - cell "0.46" [ref=e1185]
+              - cell "0.408" [ref=e1186]
+              - cell "0.316" [ref=e1187]
+              - cell "0.183" [ref=e1188]
+              - cell "昨2日" [ref=e1189]
+              - cell "零上" [ref=e1190]
+              - cell "1.55" [ref=e1191]
+            - row "44 600132 重庆啤酒 53.05 +0.25% 0.9% 0.41 -0.764 -0.855 0.181 今日 零下 1.18" [ref=e1192]:
+              - cell "44" [ref=e1193]
+              - cell "600132" [ref=e1194] [cursor=pointer]
+              - cell "重庆啤酒" [ref=e1195] [cursor=pointer]
+              - cell "53.05" [ref=e1196]
+              - cell "+0.25%" [ref=e1197]:
+                - generic [ref=e1198]: +0.25%
+              - cell "0.9%" [ref=e1199]
+              - cell "0.41" [ref=e1200]
+              - cell "-0.764" [ref=e1201]
+              - cell "-0.855" [ref=e1202]
+              - cell "0.181" [ref=e1203]
+              - cell "今日" [ref=e1204]
+              - cell "零下" [ref=e1205]
+              - cell "1.18" [ref=e1206]
+            - row "45 300723 一品红 42.53 -3.14% 3.11% 0.29 1.158 1.072 0.171 昨2日 零上 1.01" [ref=e1207]:
+              - cell "45" [ref=e1208]
+              - cell "300723" [ref=e1209] [cursor=pointer]
+              - cell "一品红" [ref=e1210] [cursor=pointer]
+              - cell "42.53" [ref=e1211]
+              - cell "-3.14%" [ref=e1212]:
+                - generic [ref=e1213]: "-3.14%"
+              - cell "3.11%" [ref=e1214]
+              - cell "0.29" [ref=e1215]
+              - cell "1.158" [ref=e1216]
+              - cell "1.072" [ref=e1217]
+              - cell "0.171" [ref=e1218]
+              - cell "昨2日" [ref=e1219]
+              - cell "零上" [ref=e1220]
+              - cell "1.01" [ref=e1221]
+            - row "46 000999 华润三九 24.32 -0.53% 0.43% 0.15 -0.586 -0.67 0.169 昨2日 零下 1.10" [ref=e1222]:
+              - cell "46" [ref=e1223]
+              - cell "000999" [ref=e1224] [cursor=pointer]
+              - cell "华润三九" [ref=e1225] [cursor=pointer]
+              - cell "24.32" [ref=e1226]
+              - cell "-0.53%" [ref=e1227]:
+                - generic [ref=e1228]: "-0.53%"
+              - cell "0.43%" [ref=e1229]
+              - cell "0.15" [ref=e1230]
+              - cell "-0.586" [ref=e1231]
+              - cell "-0.67" [ref=e1232]
+              - cell "0.169" [ref=e1233]
+              - cell "昨2日" [ref=e1234]
+              - cell "零下" [ref=e1235]
+              - cell "1.10" [ref=e1236]
+            - row "47 600995 南网储能 15.73 +0.70% 2.49% 3.39 0.195 0.115 0.159 昨2日 零上 1.44" [ref=e1237]:
+              - cell "47" [ref=e1238]
+              - cell "600995" [ref=e1239] [cursor=pointer]
+              - cell "南网储能" [ref=e1240] [cursor=pointer]
+              - cell "15.73" [ref=e1241]
+              - cell "+0.70%" [ref=e1242]:
+                - generic [ref=e1243]: +0.70%
+              - cell "2.49%" [ref=e1244]
+              - cell "3.39" [ref=e1245]
+              - cell "0.195" [ref=e1246]
+              - cell "0.115" [ref=e1247]
+              - cell "0.159" [ref=e1248]
+              - cell "昨2日" [ref=e1249]
+              - cell "零上" [ref=e1250]
+              - cell "1.44" [ref=e1251]
+            - row "48 603589 口子窖 22.08 -0.85% 0.78% 0.1 -0.629 -0.705 0.15 昨2日 零下 1.28" [ref=e1252]:
+              - cell "48" [ref=e1253]
+              - cell "603589" [ref=e1254] [cursor=pointer]
+              - cell "口子窖" [ref=e1255] [cursor=pointer]
+              - cell "22.08" [ref=e1256]
+              - cell "-0.85%" [ref=e1257]:
+                - generic [ref=e1258]: "-0.85%"
+              - cell "0.78%" [ref=e1259]
+              - cell "0.1" [ref=e1260]
+              - cell "-0.629" [ref=e1261]
+              - cell "-0.705" [ref=e1262]
+              - cell "0.15" [ref=e1263]
+              - cell "昨2日" [ref=e1264]
+              - cell "零下" [ref=e1265]
+              - cell "1.28" [ref=e1266]
+            - row "49 603225 新凤鸣 18.37 +8.19% 1.93% 0.25 0.018 -0.056 0.148 今日 零下 1.08" [ref=e1267]:
+              - cell "49" [ref=e1268]
+              - cell "603225" [ref=e1269] [cursor=pointer]
+              - cell "新凤鸣" [ref=e1270] [cursor=pointer]
+              - cell "18.37" [ref=e1271]
+              - cell "+8.19%" [ref=e1272]:
+                - generic [ref=e1273]: +8.19%
+              - cell "1.93%" [ref=e1274]
+              - cell "0.25" [ref=e1275]
+              - cell "0.018" [ref=e1276]
+              - cell "-0.056" [ref=e1277]
+              - cell "0.148" [ref=e1278]
+              - cell "今日" [ref=e1279]
+              - cell "零下" [ref=e1280]
+              - cell "1.08" [ref=e1281]
+            - row "50 002304 洋河股份 45.32 -0.15% 0.29% 0.67 -1.243 -1.311 0.135 今日 零下 1.19" [ref=e1282]:
+              - cell "50" [ref=e1283]
+              - cell "002304" [ref=e1284] [cursor=pointer]
+              - cell "洋河股份" [ref=e1285] [cursor=pointer]
+              - cell "45.32" [ref=e1286]
+              - cell "-0.15%" [ref=e1287]:
+                - generic [ref=e1288]: "-0.15%"
+              - cell "0.29%" [ref=e1289]
+              - cell "0.67" [ref=e1290]
+              - cell "-1.243" [ref=e1291]
+              - cell "-1.311" [ref=e1292]
+              - cell "0.135" [ref=e1293]
+              - cell "今日" [ref=e1294]
+              - cell "零下" [ref=e1295]
+              - cell "1.19" [ref=e1296]
+            - row "51 000531 穗恒运Ａ 7.94 +1.28% 4.53% 0.08 0.188 0.122 0.133 昨3日 零上 1.52" [ref=e1297]:
+              - cell "51" [ref=e1298]
+              - cell "000531" [ref=e1299] [cursor=pointer]
+              - cell "穗恒运Ａ" [ref=e1300] [cursor=pointer]
+              - cell "7.94" [ref=e1301]
+              - cell "+1.28%" [ref=e1302]:
+                - generic [ref=e1303]: +1.28%
+              - cell "4.53%" [ref=e1304]
+              - cell "0.08" [ref=e1305]
+              - cell "0.188" [ref=e1306]
+              - cell "0.122" [ref=e1307]
+              - cell "0.133" [ref=e1308]
+              - cell "昨3日" [ref=e1309]
+              - cell "零上" [ref=e1310]
+              - cell "1.52" [ref=e1311]
+            - row "52 000858 五 粮 液 83.14 -2.06% 0.5% 5.31 -4.077 -4.142 0.129 今日 零下 1.04" [ref=e1312]:
+              - cell "52" [ref=e1313]
+              - cell "000858" [ref=e1314] [cursor=pointer]
+              - cell "五 粮 液" [ref=e1315] [cursor=pointer]
+              - cell "83.14" [ref=e1316]
+              - cell "-2.06%" [ref=e1317]:
+                - generic [ref=e1318]: "-2.06%"
+              - cell "0.5%" [ref=e1319]
+              - cell "5.31" [ref=e1320]
+              - cell "-4.077" [ref=e1321]
+              - cell "-4.142" [ref=e1322]
+              - cell "0.129" [ref=e1323]
+              - cell "今日" [ref=e1324]
+              - cell "零下" [ref=e1325]
+              - cell "1.04" [ref=e1326]
+            - row "53 300791 仙乐健康 18.56 +2.54% 0.9% 0.09 -0.476 -0.537 0.122 今日 零下 1.11" [ref=e1327]:
+              - cell "53" [ref=e1328]
+              - cell "300791" [ref=e1329] [cursor=pointer]
+              - cell "仙乐健康" [ref=e1330] [cursor=pointer]
+              - cell "18.56" [ref=e1331]
+              - cell "+2.54%" [ref=e1332]:
+                - generic [ref=e1333]: +2.54%
+              - cell "0.9%" [ref=e1334]
+              - cell "0.09" [ref=e1335]
+              - cell "-0.476" [ref=e1336]
+              - cell "-0.537" [ref=e1337]
+              - cell "0.122" [ref=e1338]
+              - cell "今日" [ref=e1339]
+              - cell "零下" [ref=e1340]
+              - cell "1.11" [ref=e1341]
+            - row "54 001328 登康口腔 31.35 +1.26% 0.75% 0.11 -0.578 -0.639 0.121 今日 零下 1.25" [ref=e1342]:
+              - cell "54" [ref=e1343]
+              - cell "001328" [ref=e1344] [cursor=pointer]
+              - cell "登康口腔" [ref=e1345] [cursor=pointer]
+              - cell "31.35" [ref=e1346]
+              - cell "+1.26%" [ref=e1347]:
+                - generic [ref=e1348]: +1.26%
+              - cell "0.75%" [ref=e1349]
+              - cell "0.11" [ref=e1350]
+              - cell "-0.578" [ref=e1351]
+              - cell "-0.639" [ref=e1352]
+              - cell "0.121" [ref=e1353]
+              - cell "今日" [ref=e1354]
+              - cell "零下" [ref=e1355]
+              - cell "1.25" [ref=e1356]
+            - row "55 002951 金时科技 17.91 +1.53% 3.94% 0.2 0.496 0.436 0.12 昨2日 零上 1.53" [ref=e1357]:
+              - cell "55" [ref=e1358]
+              - cell "002951" [ref=e1359] [cursor=pointer]
+              - cell "金时科技" [ref=e1360] [cursor=pointer]
+              - cell "17.91" [ref=e1361]
+              - cell "+1.53%" [ref=e1362]:
+                - generic [ref=e1363]: +1.53%
+              - cell "3.94%" [ref=e1364]
+              - cell "0.2" [ref=e1365]
+              - cell "0.496" [ref=e1366]
+              - cell "0.436" [ref=e1367]
+              - cell "0.12" [ref=e1368]
+              - cell "昨2日" [ref=e1369]
+              - cell "零上" [ref=e1370]
+              - cell "1.53" [ref=e1371]
+            - row "56 000729 燕京啤酒 12.93 +1.25% 1.27% 0.4 -0.126 -0.184 0.115 昨2日 零下 0.97" [ref=e1372]:
+              - cell "56" [ref=e1373]
+              - cell "000729" [ref=e1374] [cursor=pointer]
+              - cell "燕京啤酒" [ref=e1375] [cursor=pointer]
+              - cell "12.93" [ref=e1376]
+              - cell "+1.25%" [ref=e1377]:
+                - generic [ref=e1378]: +1.25%
+              - cell "1.27%" [ref=e1379]
+              - cell "0.4" [ref=e1380]
+              - cell "-0.126" [ref=e1381]
+              - cell "-0.184" [ref=e1382]
+              - cell "0.115" [ref=e1383]
+              - cell "昨2日" [ref=e1384]
+              - cell "零下" [ref=e1385]
+              - cell "0.97" [ref=e1386]
+            - row "57 000090 天健集团 3.95 +2.60% 6.27% 0.78 0.016 -0.04 0.113 昨2日 零下 2.12" [ref=e1387]:
+              - cell "57" [ref=e1388]
+              - cell "000090" [ref=e1389] [cursor=pointer]
+              - cell "天健集团" [ref=e1390] [cursor=pointer]
+              - cell "3.95" [ref=e1391]
+              - cell "+2.60%" [ref=e1392]:
+                - generic [ref=e1393]: +2.60%
+              - cell "6.27%" [ref=e1394]
+              - cell "0.78" [ref=e1395]
+              - cell "0.016" [ref=e1396]
+              - cell "-0.04" [ref=e1397]
+              - cell "0.113" [ref=e1398]
+              - cell "昨2日" [ref=e1399]
+              - cell "零下" [ref=e1400]
+              - cell "2.12" [ref=e1401]
+            - row "58 300877 金春股份 33.1 -2.96% 1.82% 0.07 1.129 1.075 0.107 昨2日 零上 0.99" [ref=e1402]:
+              - cell "58" [ref=e1403]
+              - cell "300877" [ref=e1404] [cursor=pointer]
+              - cell "金春股份" [ref=e1405] [cursor=pointer]
+              - cell "33.1" [ref=e1406]
+              - cell "-2.96%" [ref=e1407]:
+                - generic [ref=e1408]: "-2.96%"
+              - cell "1.82%" [ref=e1409]
+              - cell "0.07" [ref=e1410]
+              - cell "1.129" [ref=e1411]
+              - cell "1.075" [ref=e1412]
+              - cell "0.107" [ref=e1413]
+              - cell "昨2日" [ref=e1414]
+              - cell "零上" [ref=e1415]
+              - cell "0.99" [ref=e1416]
+            - row "59 002078 太阳纸业 13.75 -0.43% 0.37% 0.23 -0.247 -0.298 0.101 昨3日 零下 1.01" [ref=e1417]:
+              - cell "59" [ref=e1418]
+              - cell "002078" [ref=e1419] [cursor=pointer]
+              - cell "太阳纸业" [ref=e1420] [cursor=pointer]
+              - cell "13.75" [ref=e1421]
+              - cell "-0.43%" [ref=e1422]:
+                - generic [ref=e1423]: "-0.43%"
+              - cell "0.37%" [ref=e1424]
+              - cell "0.23" [ref=e1425]
+              - cell "-0.247" [ref=e1426]
+              - cell "-0.298" [ref=e1427]
+              - cell "0.101" [ref=e1428]
+              - cell "昨3日" [ref=e1429]
+              - cell "零下" [ref=e1430]
+              - cell "1.01" [ref=e1431]
+            - row "60 000530 冰山冷热 6.39 +2.57% 8.65% 0.42 0.02 -0.03 0.099 昨2日 零下 1.93" [ref=e1432]:
+              - cell "60" [ref=e1433]
+              - cell "000530" [ref=e1434] [cursor=pointer]
+              - cell "冰山冷热" [ref=e1435] [cursor=pointer]
+              - cell "6.39" [ref=e1436]
+              - cell "+2.57%" [ref=e1437]:
+                - generic [ref=e1438]: +2.57%
+              - cell "8.65%" [ref=e1439]
+              - cell "0.42" [ref=e1440]
+              - cell "0.02" [ref=e1441]
+              - cell "-0.03" [ref=e1442]
+              - cell "0.099" [ref=e1443]
+              - cell "昨2日" [ref=e1444]
+              - cell "零下" [ref=e1445]
+              - cell "1.93" [ref=e1446]
+            - row "61 301617 博苑新材 54.47 +4.13% 4.62% 0.18 2.041 1.992 0.098 昨3日 零上 1.17" [ref=e1447]:
+              - cell "61" [ref=e1448]
+              - cell "301617" [ref=e1449] [cursor=pointer]
+              - cell "博苑新材" [ref=e1450] [cursor=pointer]
+              - cell "54.47" [ref=e1451]
+              - cell "+4.13%" [ref=e1452]:
+                - generic [ref=e1453]: +4.13%
+              - cell "4.62%" [ref=e1454]
+              - cell "0.18" [ref=e1455]
+              - cell "2.041" [ref=e1456]
+              - cell "1.992" [ref=e1457]
+              - cell "0.098" [ref=e1458]
+              - cell "昨3日" [ref=e1459]
+              - cell "零上" [ref=e1460]
+              - cell "1.17" [ref=e1461]
+            - row "62 301053 远信工业 43.12 -1.21% 4.52% 0.34 0.16 0.114 0.092 今日 零上 0.83" [ref=e1462]:
+              - cell "62" [ref=e1463]
+              - cell "301053" [ref=e1464] [cursor=pointer]
+              - cell "远信工业" [ref=e1465] [cursor=pointer]
+              - cell "43.12" [ref=e1466]
+              - cell "-1.21%" [ref=e1467]:
+                - generic [ref=e1468]: "-1.21%"
+              - cell "4.52%" [ref=e1469]
+              - cell "0.34" [ref=e1470]
+              - cell "0.16" [ref=e1471]
+              - cell "0.114" [ref=e1472]
+              - cell "0.092" [ref=e1473]
+              - cell "今日" [ref=e1474]
+              - cell "零上" [ref=e1475]
+              - cell "0.83" [ref=e1476]
+            - row "63 600280 中央商场 3.52 +10.00% 7.18% 0.84 0.013 -0.033 0.091 昨2日 零下 1.89" [ref=e1477]:
+              - cell "63" [ref=e1478]
+              - cell "600280" [ref=e1479] [cursor=pointer]
+              - cell "中央商场" [ref=e1480] [cursor=pointer]
+              - cell "3.52" [ref=e1481]
+              - cell "+10.00%" [ref=e1482]:
+                - generic [ref=e1483]: +10.00%
+              - cell "7.18%" [ref=e1484]
+              - cell "0.84" [ref=e1485]
+              - cell "0.013" [ref=e1486]
+              - cell "-0.033" [ref=e1487]
+              - cell "0.091" [ref=e1488]
+              - cell "昨2日" [ref=e1489]
+              - cell "零下" [ref=e1490]
+              - cell "1.89" [ref=e1491]
+            - row "64 601231 环旭电子 40.43 -9.79% 1.78% 0.44 1.06 1.016 0.087 昨3日 零上 1.15" [ref=e1492]:
+              - cell "64" [ref=e1493]
+              - cell "601231" [ref=e1494] [cursor=pointer]
+              - cell "环旭电子" [ref=e1495] [cursor=pointer]
+              - cell "40.43" [ref=e1496]
+              - cell "-9.79%" [ref=e1497]:
+                - generic [ref=e1498]: "-9.79%"
+              - cell "1.78%" [ref=e1499]
+              - cell "0.44" [ref=e1500]
+              - cell "1.06" [ref=e1501]
+              - cell "1.016" [ref=e1502]
+              - cell "0.087" [ref=e1503]
+              - cell "昨3日" [ref=e1504]
+              - cell "零上" [ref=e1505]
+              - cell "1.15" [ref=e1506]
+            - row "65 600256 广汇能源 6.77 +7.29% 2.69% 0.54 -0.007 -0.048 0.083 昨3日 零轴 0.89" [ref=e1507]:
+              - cell "65" [ref=e1508]
+              - cell "600256" [ref=e1509] [cursor=pointer]
+              - cell "广汇能源" [ref=e1510] [cursor=pointer]
+              - cell "6.77" [ref=e1511]
+              - cell "+7.29%" [ref=e1512]:
+                - generic [ref=e1513]: +7.29%
+              - cell "2.69%" [ref=e1514]
+              - cell "0.54" [ref=e1515]
+              - cell "-0.007" [ref=e1516]
+              - cell "-0.048" [ref=e1517]
+              - cell "0.083" [ref=e1518]
+              - cell "昨3日" [ref=e1519]
+              - cell "零轴" [ref=e1520]
+              - cell "0.89" [ref=e1521]
+            - row "66 000601 韶能股份 8.16 -3.55% 13.05% 0.51 0.265 0.226 0.078 昨2日 零上 1.20" [ref=e1522]:
+              - cell "66" [ref=e1523]
+              - cell "000601" [ref=e1524] [cursor=pointer]
+              - cell "韶能股份" [ref=e1525] [cursor=pointer]
+              - cell "8.16" [ref=e1526]
+              - cell "-3.55%" [ref=e1527]:
+                - generic [ref=e1528]: "-3.55%"
+              - cell "13.05%" [ref=e1529]
+              - cell "0.51" [ref=e1530]
+              - cell "0.265" [ref=e1531]
+              - cell "0.226" [ref=e1532]
+              - cell "0.078" [ref=e1533]
+              - cell "昨2日" [ref=e1534]
+              - cell "零上" [ref=e1535]
+              - cell "1.20" [ref=e1536]
+            - row "67 300703 创源股份 17.53 +4.66% 5.73% 0.27 -0.654 -0.691 0.075 今日 零下 1.25" [ref=e1537]:
+              - cell "67" [ref=e1538]
+              - cell "300703" [ref=e1539] [cursor=pointer]
+              - cell "创源股份" [ref=e1540] [cursor=pointer]
+              - cell "17.53" [ref=e1541]
+              - cell "+4.66%" [ref=e1542]:
+                - generic [ref=e1543]: +4.66%
+              - cell "5.73%" [ref=e1544]
+              - cell "0.27" [ref=e1545]
+              - cell "-0.654" [ref=e1546]
+              - cell "-0.691" [ref=e1547]
+              - cell "0.075" [ref=e1548]
+              - cell "今日" [ref=e1549]
+              - cell "零下" [ref=e1550]
+              - cell "1.25" [ref=e1551]
+            - row "68 600674 川投能源 15.69 +1.23% 1.1% 1.04 0.079 0.042 0.074 昨2日 零上 1.25" [ref=e1552]:
+              - cell "68" [ref=e1553]
+              - cell "600674" [ref=e1554] [cursor=pointer]
+              - cell "川投能源" [ref=e1555] [cursor=pointer]
+              - cell "15.69" [ref=e1556]
+              - cell "+1.23%" [ref=e1557]:
+                - generic [ref=e1558]: +1.23%
+              - cell "1.1%" [ref=e1559]
+              - cell "1.04" [ref=e1560]
+              - cell "0.079" [ref=e1561]
+              - cell "0.042" [ref=e1562]
+              - cell "0.074" [ref=e1563]
+              - cell "昨2日" [ref=e1564]
+              - cell "零上" [ref=e1565]
+              - cell "1.25" [ref=e1566]
+            - row "69 600023 浙能电力 6.6 +2.01% 1.03% 2.12 0.159 0.122 0.074 昨2日 零上 1.14" [ref=e1567]:
+              - cell "69" [ref=e1568]
+              - cell "600023" [ref=e1569] [cursor=pointer]
+              - cell "浙能电力" [ref=e1570] [cursor=pointer]
+              - cell "6.6" [ref=e1571]
+              - cell "+2.01%" [ref=e1572]:
+                - generic [ref=e1573]: +2.01%
+              - cell "1.03%" [ref=e1574]
+              - cell "2.12" [ref=e1575]
+              - cell "0.159" [ref=e1576]
+              - cell "0.122" [ref=e1577]
+              - cell "0.074" [ref=e1578]
+              - cell "昨2日" [ref=e1579]
+              - cell "零上" [ref=e1580]
+              - cell "1.14" [ref=e1581]
+            - row "70 603098 森特股份 12.79 +1.43% 0.64% 0.1 -0.593 -0.627 0.068 昨3日 零下 1.17" [ref=e1582]:
+              - cell "70" [ref=e1583]
+              - cell "603098" [ref=e1584] [cursor=pointer]
+              - cell "森特股份" [ref=e1585] [cursor=pointer]
+              - cell "12.79" [ref=e1586]
+              - cell "+1.43%" [ref=e1587]:
+                - generic [ref=e1588]: +1.43%
+              - cell "0.64%" [ref=e1589]
+              - cell "0.1" [ref=e1590]
+              - cell "-0.593" [ref=e1591]
+              - cell "-0.627" [ref=e1592]
+              - cell "0.068" [ref=e1593]
+              - cell "昨3日" [ref=e1594]
+              - cell "零下" [ref=e1595]
+              - cell "1.17" [ref=e1596]
+            - row "71 600744 华银电力 8.71 -3.86% 8.96% 1.04 0.126 0.092 0.067 昨2日 零上 1.11" [ref=e1597]:
+              - cell "71" [ref=e1598]
+              - cell "600744" [ref=e1599] [cursor=pointer]
+              - cell "华银电力" [ref=e1600] [cursor=pointer]
+              - cell "8.71" [ref=e1601]
+              - cell "-3.86%" [ref=e1602]:
+                - generic [ref=e1603]: "-3.86%"
+              - cell "8.96%" [ref=e1604]
+              - cell "1.04" [ref=e1605]
+              - cell "0.126" [ref=e1606]
+              - cell "0.092" [ref=e1607]
+              - cell "0.067" [ref=e1608]
+              - cell "昨2日" [ref=e1609]
+              - cell "零上" [ref=e1610]
+              - cell "1.11" [ref=e1611]
+            - row "72 300009 安科生物 8.33 +0.12% 0.79% 0.26 -0.239 -0.272 0.065 昨2日 零下 0.79" [ref=e1612]:
+              - cell "72" [ref=e1613]
+              - cell "300009" [ref=e1614] [cursor=pointer]
+              - cell "安科生物" [ref=e1615] [cursor=pointer]
+              - cell "8.33" [ref=e1616]
+              - cell "+0.12%" [ref=e1617]:
+                - generic [ref=e1618]: +0.12%
+              - cell "0.79%" [ref=e1619]
+              - cell "0.26" [ref=e1620]
+              - cell "-0.239" [ref=e1621]
+              - cell "-0.272" [ref=e1622]
+              - cell "0.065" [ref=e1623]
+              - cell "昨2日" [ref=e1624]
+              - cell "零下" [ref=e1625]
+              - cell "0.79" [ref=e1626]
+            - row "73 603683 晶华新材 29.56 +7.88% 5.69% 0.46 0.076 0.045 0.062 今日 零上 1.04" [ref=e1627]:
+              - cell "73" [ref=e1628]
+              - cell "603683" [ref=e1629] [cursor=pointer]
+              - cell "晶华新材" [ref=e1630] [cursor=pointer]
+              - cell "29.56" [ref=e1631]
+              - cell "+7.88%" [ref=e1632]:
+                - generic [ref=e1633]: +7.88%
+              - cell "5.69%" [ref=e1634]
+              - cell "0.46" [ref=e1635]
+              - cell "0.076" [ref=e1636]
+              - cell "0.045" [ref=e1637]
+              - cell "0.062" [ref=e1638]
+              - cell "今日" [ref=e1639]
+              - cell "零上" [ref=e1640]
+              - cell "1.04" [ref=e1641]
+            - row "74 603288 海天味业 35.61 -0.86% 0.23% 0.55 -1.103 -1.133 0.06 今日 零下 1.14" [ref=e1642]:
+              - cell "74" [ref=e1643]
+              - cell "603288" [ref=e1644] [cursor=pointer]
+              - cell "海天味业" [ref=e1645] [cursor=pointer]
+              - cell "35.61" [ref=e1646]
+              - cell "-0.86%" [ref=e1647]:
+                - generic [ref=e1648]: "-0.86%"
+              - cell "0.23%" [ref=e1649]
+              - cell "0.55" [ref=e1650]
+              - cell "-1.103" [ref=e1651]
+              - cell "-1.133" [ref=e1652]
+              - cell "0.06" [ref=e1653]
+              - cell "今日" [ref=e1654]
+              - cell "零下" [ref=e1655]
+              - cell "1.14" [ref=e1656]
+            - row "75 600979 广安爱众 5.34 +0.75% 9.51% 2.11 0.02 -0.009 0.058 昨2日 零下 0.98" [ref=e1657]:
+              - cell "75" [ref=e1658]
+              - cell "600979" [ref=e1659] [cursor=pointer]
+              - cell "广安爱众" [ref=e1660] [cursor=pointer]
+              - cell "5.34" [ref=e1661]
+              - cell "+0.75%" [ref=e1662]:
+                - generic [ref=e1663]: +0.75%
+              - cell "9.51%" [ref=e1664]
+              - cell "2.11" [ref=e1665]
+              - cell "0.02" [ref=e1666]
+              - cell "-0.009" [ref=e1667]
+              - cell "0.058" [ref=e1668]
+              - cell "昨2日" [ref=e1669]
+              - cell "零下" [ref=e1670]
+              - cell "0.98" [ref=e1671]
+            - row "76 600027 华电国际 5.83 +4.86% 3.95% 0.2 0.158 0.13 0.057 昨2日 零上 1.36" [ref=e1672]:
+              - cell "76" [ref=e1673]
+              - cell "600027" [ref=e1674] [cursor=pointer]
+              - cell "华电国际" [ref=e1675] [cursor=pointer]
+              - cell "5.83" [ref=e1676]
+              - cell "+4.86%" [ref=e1677]:
+                - generic [ref=e1678]: +4.86%
+              - cell "3.95%" [ref=e1679]
+              - cell "0.2" [ref=e1680]
+              - cell "0.158" [ref=e1681]
+              - cell "0.13" [ref=e1682]
+              - cell "0.057" [ref=e1683]
+              - cell "昨2日" [ref=e1684]
+              - cell "零上" [ref=e1685]
+              - cell "1.36" [ref=e1686]
+            - row "77 601211 国泰海通 15.67 +1.89% 1.02% 3.13 -0.303 -0.331 0.055 今日 零下 0.94" [ref=e1687]:
+              - cell "77" [ref=e1688]
+              - cell "601211" [ref=e1689] [cursor=pointer]
+              - cell "国泰海通" [ref=e1690] [cursor=pointer]
+              - cell "15.67" [ref=e1691]
+              - cell "+1.89%" [ref=e1692]:
+                - generic [ref=e1693]: +1.89%
+              - cell "1.02%" [ref=e1694]
+              - cell "3.13" [ref=e1695]
+              - cell "-0.303" [ref=e1696]
+              - cell "-0.331" [ref=e1697]
+              - cell "0.055" [ref=e1698]
+              - cell "今日" [ref=e1699]
+              - cell "零下" [ref=e1700]
+              - cell "0.94" [ref=e1701]
+            - row "78 600982 宁波能源 6.69 +1.52% 7.18% 0.21 0.141 0.115 0.053 昨2日 零上 0.99" [ref=e1702]:
+              - cell "78" [ref=e1703]
+              - cell "600982" [ref=e1704] [cursor=pointer]
+              - cell "宁波能源" [ref=e1705] [cursor=pointer]
+              - cell "6.69" [ref=e1706]
+              - cell "+1.52%" [ref=e1707]:
+                - generic [ref=e1708]: +1.52%
+              - cell "7.18%" [ref=e1709]
+              - cell "0.21" [ref=e1710]
+              - cell "0.141" [ref=e1711]
+              - cell "0.115" [ref=e1712]
+              - cell "0.053" [ref=e1713]
+              - cell "昨2日" [ref=e1714]
+              - cell "零上" [ref=e1715]
+              - cell "0.99" [ref=e1716]
+            - row "79 600549 厦门钨业 53.45 -1.69% 3.35% 5.47 -1.433 -1.458 0.05 今日 零下 1.06" [ref=e1717]:
+              - cell "79" [ref=e1718]
+              - cell "600549" [ref=e1719] [cursor=pointer]
+              - cell "厦门钨业" [ref=e1720] [cursor=pointer]
+              - cell "53.45" [ref=e1721]
+              - cell "-1.69%" [ref=e1722]:
+                - generic [ref=e1723]: "-1.69%"
+              - cell "3.35%" [ref=e1724]
+              - cell "5.47" [ref=e1725]
+              - cell "-1.433" [ref=e1726]
+              - cell "-1.458" [ref=e1727]
+              - cell "0.05" [ref=e1728]
+              - cell "今日" [ref=e1729]
+              - cell "零下" [ref=e1730]
+              - cell "1.06" [ref=e1731]
+            - row "80 600693 东百集团 10.61 +5.26% 10.78% 3.33 -0.362 -0.387 0.049 今日 零下 1.48" [ref=e1732]:
+              - cell "80" [ref=e1733]
+              - cell "600693" [ref=e1734] [cursor=pointer]
+              - cell "东百集团" [ref=e1735] [cursor=pointer]
+              - cell "10.61" [ref=e1736]
+              - cell "+5.26%" [ref=e1737]:
+                - generic [ref=e1738]: +5.26%
+              - cell "10.78%" [ref=e1739]
+              - cell "3.33" [ref=e1740]
+              - cell "-0.362" [ref=e1741]
+              - cell "-0.387" [ref=e1742]
+              - cell "0.049" [ref=e1743]
+              - cell "今日" [ref=e1744]
+              - cell "零下" [ref=e1745]
+              - cell "1.48" [ref=e1746]
+            - row "81 300317 珈伟新能 5.95 +4.02% 18.56% 0.56 0.087 0.063 0.048 今日 零上 1.04" [ref=e1747]:
+              - cell "81" [ref=e1748]
+              - cell "300317" [ref=e1749] [cursor=pointer]
+              - cell "珈伟新能" [ref=e1750] [cursor=pointer]
+              - cell "5.95" [ref=e1751]
+              - cell "+4.02%" [ref=e1752]:
+                - generic [ref=e1753]: +4.02%
+              - cell "18.56%" [ref=e1754]
+              - cell "0.56" [ref=e1755]
+              - cell "0.087" [ref=e1756]
+              - cell "0.063" [ref=e1757]
+              - cell "0.048" [ref=e1758]
+              - cell "今日" [ref=e1759]
+              - cell "零上" [ref=e1760]
+              - cell "1.04" [ref=e1761]
+            - row "82 603170 宝立食品 12.86 -1.08% 0.85% 0.09 -0.12 -0.143 0.048 今日 零下 1.03" [ref=e1762]:
+              - cell "82" [ref=e1763]
+              - cell "603170" [ref=e1764] [cursor=pointer]
+              - cell "宝立食品" [ref=e1765] [cursor=pointer]
+              - cell "12.86" [ref=e1766]
+              - cell "-1.08%" [ref=e1767]:
+                - generic [ref=e1768]: "-1.08%"
+              - cell "0.85%" [ref=e1769]
+              - cell "0.09" [ref=e1770]
+              - cell "-0.12" [ref=e1771]
+              - cell "-0.143" [ref=e1772]
+              - cell "0.048" [ref=e1773]
+              - cell "今日" [ref=e1774]
+              - cell "零下" [ref=e1775]
+              - cell "1.03" [ref=e1776]
+            - row "83 600795 国电电力 5.25 +1.94% 2.21% 1.78 0.059 0.036 0.046 昨2日 零上 1.33" [ref=e1777]:
+              - cell "83" [ref=e1778]
+              - cell "600795" [ref=e1779] [cursor=pointer]
+              - cell "国电电力" [ref=e1780] [cursor=pointer]
+              - cell "5.25" [ref=e1781]
+              - cell "+1.94%" [ref=e1782]:
+                - generic [ref=e1783]: +1.94%
+              - cell "2.21%" [ref=e1784]
+              - cell "1.78" [ref=e1785]
+              - cell "0.059" [ref=e1786]
+              - cell "0.036" [ref=e1787]
+              - cell "0.046" [ref=e1788]
+              - cell "昨2日" [ref=e1789]
+              - cell "零上" [ref=e1790]
+              - cell "1.33" [ref=e1791]
+            - row "84 603191 望变电气 22.34 +2.15% 6.66% 1.07 0.229 0.207 0.044 今日 零上 1.02" [ref=e1792]:
+              - cell "84" [ref=e1793]
+              - cell "603191" [ref=e1794] [cursor=pointer]
+              - cell "望变电气" [ref=e1795] [cursor=pointer]
+              - cell "22.34" [ref=e1796]
+              - cell "+2.15%" [ref=e1797]:
+                - generic [ref=e1798]: +2.15%
+              - cell "6.66%" [ref=e1799]
+              - cell "1.07" [ref=e1800]
+              - cell "0.229" [ref=e1801]
+              - cell "0.207" [ref=e1802]
+              - cell "0.044" [ref=e1803]
+              - cell "今日" [ref=e1804]
+              - cell "零上" [ref=e1805]
+              - cell "1.02" [ref=e1806]
+            - row "85 600851 海欣股份 8.04 -1.47% 0.95% 0.26 -0.08 -0.102 0.043 昨2日 零下 1.29" [ref=e1807]:
+              - cell "85" [ref=e1808]
+              - cell "600851" [ref=e1809] [cursor=pointer]
+              - cell "海欣股份" [ref=e1810] [cursor=pointer]
+              - cell "8.04" [ref=e1811]
+              - cell "-1.47%" [ref=e1812]:
+                - generic [ref=e1813]: "-1.47%"
+              - cell "0.95%" [ref=e1814]
+              - cell "0.26" [ref=e1815]
+              - cell "-0.08" [ref=e1816]
+              - cell "-0.102" [ref=e1817]
+              - cell "0.043" [ref=e1818]
+              - cell "昨2日" [ref=e1819]
+              - cell "零下" [ref=e1820]
+              - cell "1.29" [ref=e1821]
+            - row "86 000401 金隅冀东 4.06 +1.75% 0.33% 0.11 -0.142 -0.164 0.043 昨2日 零下 0.80" [ref=e1822]:
+              - cell "86" [ref=e1823]
+              - cell "000401" [ref=e1824] [cursor=pointer]
+              - cell "金隅冀东" [ref=e1825] [cursor=pointer]
+              - cell "4.06" [ref=e1826]
+              - cell "+1.75%" [ref=e1827]:
+                - generic [ref=e1828]: +1.75%
+              - cell "0.33%" [ref=e1829]
+              - cell "0.11" [ref=e1830]
+              - cell "-0.142" [ref=e1831]
+              - cell "-0.164" [ref=e1832]
+              - cell "0.043" [ref=e1833]
+              - cell "昨2日" [ref=e1834]
+              - cell "零下" [ref=e1835]
+              - cell "0.80" [ref=e1836]
+            - row "87 600315 上海家化 18.55 -0.75% 0.57% 0.17 -0.594 -0.615 0.041 今日 零下 0.94" [ref=e1837]:
+              - cell "87" [ref=e1838]
+              - cell "600315" [ref=e1839] [cursor=pointer]
+              - cell "上海家化" [ref=e1840] [cursor=pointer]
+              - cell "18.55" [ref=e1841]
+              - cell "-0.75%" [ref=e1842]:
+                - generic [ref=e1843]: "-0.75%"
+              - cell "0.57%" [ref=e1844]
+              - cell "0.17" [ref=e1845]
+              - cell "-0.594" [ref=e1846]
+              - cell "-0.615" [ref=e1847]
+              - cell "0.041" [ref=e1848]
+              - cell "今日" [ref=e1849]
+              - cell "零下" [ref=e1850]
+              - cell "0.94" [ref=e1851]
+            - row "88 000506 招金黄金 14.49 +2.11% 2.68% 0.57 -0.599 -0.618 0.04 今日 零下 1.24" [ref=e1852]:
+              - cell "88" [ref=e1853]
+              - cell "000506" [ref=e1854] [cursor=pointer]
+              - cell "招金黄金" [ref=e1855] [cursor=pointer]
+              - cell "14.49" [ref=e1856]
+              - cell "+2.11%" [ref=e1857]:
+                - generic [ref=e1858]: +2.11%
+              - cell "2.68%" [ref=e1859]
+              - cell "0.57" [ref=e1860]
+              - cell "-0.599" [ref=e1861]
+              - cell "-0.618" [ref=e1862]
+              - cell "0.04" [ref=e1863]
+              - cell "今日" [ref=e1864]
+              - cell "零下" [ref=e1865]
+              - cell "1.24" [ref=e1866]
+            - row "89 000712 锦龙股份 11.02 -1.96% 2.67% 0.58 0.137 0.118 0.038 昨3日 零上 1.19" [ref=e1867]:
+              - cell "89" [ref=e1868]
+              - cell "000712" [ref=e1869] [cursor=pointer]
+              - cell "锦龙股份" [ref=e1870] [cursor=pointer]
+              - cell "11.02" [ref=e1871]
+              - cell "-1.96%" [ref=e1872]:
+                - generic [ref=e1873]: "-1.96%"
+              - cell "2.67%" [ref=e1874]
+              - cell "0.58" [ref=e1875]
+              - cell "0.137" [ref=e1876]
+              - cell "0.118" [ref=e1877]
+              - cell "0.038" [ref=e1878]
+              - cell "昨3日" [ref=e1879]
+              - cell "零上" [ref=e1880]
+              - cell "1.19" [ref=e1881]
+            - row "90 000791 甘肃能源 9.69 -1.52% 4.24% 0.31 0.352 0.333 0.037 昨2日 零上 1.03" [ref=e1882]:
+              - cell "90" [ref=e1883]
+              - cell "000791" [ref=e1884] [cursor=pointer]
+              - cell "甘肃能源" [ref=e1885] [cursor=pointer]
+              - cell "9.69" [ref=e1886]
+              - cell "-1.52%" [ref=e1887]:
+                - generic [ref=e1888]: "-1.52%"
+              - cell "4.24%" [ref=e1889]
+              - cell "0.31" [ref=e1890]
+              - cell "0.352" [ref=e1891]
+              - cell "0.333" [ref=e1892]
+              - cell "0.037" [ref=e1893]
+              - cell "昨2日" [ref=e1894]
+              - cell "零上" [ref=e1895]
+              - cell "1.03" [ref=e1896]
+            - row "91 002570 贝因美 5.18 +3.81% 3.75% 0.07 -0.012 -0.03 0.036 今日 零下 1.13" [ref=e1897]:
+              - cell "91" [ref=e1898]
+              - cell "002570" [ref=e1899] [cursor=pointer]
+              - cell "贝因美" [ref=e1900] [cursor=pointer]
+              - cell "5.18" [ref=e1901]
+              - cell "+3.81%" [ref=e1902]:
+                - generic [ref=e1903]: +3.81%
+              - cell "3.75%" [ref=e1904]
+              - cell "0.07" [ref=e1905]
+              - cell "-0.012" [ref=e1906]
+              - cell "-0.03" [ref=e1907]
+              - cell "0.036" [ref=e1908]
+              - cell "今日" [ref=e1909]
+              - cell "零下" [ref=e1910]
+              - cell "1.13" [ref=e1911]
+            - row "92 601577 长沙银行 9.54 +0.42% 0.41% 0.07 -0.061 -0.079 0.036 昨2日 零下 1.12" [ref=e1912]:
+              - cell "92" [ref=e1913]
+              - cell "601577" [ref=e1914] [cursor=pointer]
+              - cell "长沙银行" [ref=e1915] [cursor=pointer]
+              - cell "9.54" [ref=e1916]
+              - cell "+0.42%" [ref=e1917]:
+                - generic [ref=e1918]: +0.42%
+              - cell "0.41%" [ref=e1919]
+              - cell "0.07" [ref=e1920]
+              - cell "-0.061" [ref=e1921]
+              - cell "-0.079" [ref=e1922]
+              - cell "0.036" [ref=e1923]
+              - cell "昨2日" [ref=e1924]
+              - cell "零下" [ref=e1925]
+              - cell "1.12" [ref=e1926]
+            - row "93 600905 三峡能源 4.38 +5.04% 1.69% 0.8 0.015 -0.003 0.035 昨2日 零下 1.26" [ref=e1927]:
+              - cell "93" [ref=e1928]
+              - cell "600905" [ref=e1929] [cursor=pointer]
+              - cell "三峡能源" [ref=e1930] [cursor=pointer]
+              - cell "4.38" [ref=e1931]
+              - cell "+5.04%" [ref=e1932]:
+                - generic [ref=e1933]: +5.04%
+              - cell "1.69%" [ref=e1934]
+              - cell "0.8" [ref=e1935]
+              - cell "0.015" [ref=e1936]
+              - cell "-0.003" [ref=e1937]
+              - cell "0.035" [ref=e1938]
+              - cell "昨2日" [ref=e1939]
+              - cell "零下" [ref=e1940]
+              - cell "1.26" [ref=e1941]
+            - row "94 601015 陕西黑猫 3.77 +4.72% 2.52% 0.11 -0.13 -0.148 0.034 昨2日 零下 1.05" [ref=e1942]:
+              - cell "94" [ref=e1943]
+              - cell "601015" [ref=e1944] [cursor=pointer]
+              - cell "陕西黑猫" [ref=e1945] [cursor=pointer]
+              - cell "3.77" [ref=e1946]
+              - cell "+4.72%" [ref=e1947]:
+                - generic [ref=e1948]: +4.72%
+              - cell "2.52%" [ref=e1949]
+              - cell "0.11" [ref=e1950]
+              - cell "-0.13" [ref=e1951]
+              - cell "-0.148" [ref=e1952]
+              - cell "0.034" [ref=e1953]
+              - cell "昨2日" [ref=e1954]
+              - cell "零下" [ref=e1955]
+              - cell "1.05" [ref=e1956]
+            - row "95 000778 新兴铸管 4.45 -0.89% 1.82% 1.41 -0.052 -0.068 0.032 昨2日 零下 1.32" [ref=e1957]:
+              - cell "95" [ref=e1958]
+              - cell "000778" [ref=e1959] [cursor=pointer]
+              - cell "新兴铸管" [ref=e1960] [cursor=pointer]
+              - cell "4.45" [ref=e1961]
+              - cell "-0.89%" [ref=e1962]:
+                - generic [ref=e1963]: "-0.89%"
+              - cell "1.82%" [ref=e1964]
+              - cell "1.41" [ref=e1965]
+              - cell "-0.052" [ref=e1966]
+              - cell "-0.068" [ref=e1967]
+              - cell "0.032" [ref=e1968]
+              - cell "昨2日" [ref=e1969]
+              - cell "零下" [ref=e1970]
+              - cell "1.32" [ref=e1971]
+            - row "96 000025 特 力Ａ 15.51 -0.96% 2.35% 0.6 -0.29 -0.306 0.031 今日 零下 1.30" [ref=e1972]:
+              - cell "96" [ref=e1973]
+              - cell "000025" [ref=e1974] [cursor=pointer]
+              - cell "特 力Ａ" [ref=e1975] [cursor=pointer]
+              - cell "15.51" [ref=e1976]
+              - cell "-0.96%" [ref=e1977]:
+                - generic [ref=e1978]: "-0.96%"
+              - cell "2.35%" [ref=e1979]
+              - cell "0.6" [ref=e1980]
+              - cell "-0.29" [ref=e1981]
+              - cell "-0.306" [ref=e1982]
+              - cell "0.031" [ref=e1983]
+              - cell "今日" [ref=e1984]
+              - cell "零下" [ref=e1985]
+              - cell "1.30" [ref=e1986]
+            - row "97 600882 妙可蓝多 20.26 +5.63% 2.47% 0.18 -0.144 -0.16 0.031 今日 零下 1.25" [ref=e1987]:
+              - cell "97" [ref=e1988]
+              - cell "600882" [ref=e1989] [cursor=pointer]
+              - cell "妙可蓝多" [ref=e1990] [cursor=pointer]
+              - cell "20.26" [ref=e1991]
+              - cell "+5.63%" [ref=e1992]:
+                - generic [ref=e1993]: +5.63%
+              - cell "2.47%" [ref=e1994]
+              - cell "0.18" [ref=e1995]
+              - cell "-0.144" [ref=e1996]
+              - cell "-0.16" [ref=e1997]
+              - cell "0.031" [ref=e1998]
+              - cell "今日" [ref=e1999]
+              - cell "零下" [ref=e2000]
+              - cell "1.25" [ref=e2001]
+            - row "98 002059 云南旅游 4.59 +0.22% 0.59% 0.08 -0.119 -0.134 0.031 昨2日 零下 1.20" [ref=e2002]:
+              - cell "98" [ref=e2003]
+              - cell "002059" [ref=e2004] [cursor=pointer]
+              - cell "云南旅游" [ref=e2005] [cursor=pointer]
+              - cell "4.59" [ref=e2006]
+              - cell "+0.22%" [ref=e2007]:
+                - generic [ref=e2008]: +0.22%
+              - cell "0.59%" [ref=e2009]
+              - cell "0.08" [ref=e2010]
+              - cell "-0.119" [ref=e2011]
+              - cell "-0.134" [ref=e2012]
+              - cell "0.031" [ref=e2013]
+              - cell "昨2日" [ref=e2014]
+              - cell "零下" [ref=e2015]
+              - cell "1.20" [ref=e2016]
+            - row "99 600828 茂业商业 4.76 +2.81% 2.91% 0.36 -0.162 -0.178 0.03 今日 零下 1.35" [ref=e2017]:
+              - cell "99" [ref=e2018]
+              - cell "600828" [ref=e2019] [cursor=pointer]
+              - cell "茂业商业" [ref=e2020] [cursor=pointer]
+              - cell "4.76" [ref=e2021]
+              - cell "+2.81%" [ref=e2022]:
+                - generic [ref=e2023]: +2.81%
+              - cell "2.91%" [ref=e2024]
+              - cell "0.36" [ref=e2025]
+              - cell "-0.162" [ref=e2026]
+              - cell "-0.178" [ref=e2027]
+              - cell "0.03" [ref=e2028]
+              - cell "今日" [ref=e2029]
+              - cell "零下" [ref=e2030]
+              - cell "1.35" [ref=e2031]
+            - row "100 600502 安徽建工 5.29 +6.65% 1.49% 0.14 -0.115 -0.13 0.03 今日 零下 0.93" [ref=e2032]:
+              - cell "100" [ref=e2033]
+              - cell "600502" [ref=e2034] [cursor=pointer]
+              - cell "安徽建工" [ref=e2035] [cursor=pointer]
+              - cell "5.29" [ref=e2036]
+              - cell "+6.65%" [ref=e2037]:
+                - generic [ref=e2038]: +6.65%
+              - cell "1.49%" [ref=e2039]
+              - cell "0.14" [ref=e2040]
+              - cell "-0.115" [ref=e2041]
+              - cell "-0.13" [ref=e2042]
+              - cell "0.03" [ref=e2043]
+              - cell "今日" [ref=e2044]
+              - cell "零下" [ref=e2045]
+              - cell "0.93" [ref=e2046]
+            - row "显示前100条，共150条金叉信号" [ref=e2047]:
+              - cell "显示前100条，共150条金叉信号" [ref=e2048]
+        - generic [ref=e2049]:
+          - button "查看保存记录" [ref=e2050] [cursor=pointer]
+          - generic [ref=e2051]: 已保存2条记录，覆盖1天
+        - table [ref=e2054]:
+          - rowgroup [ref=e2055]:
+            - row "日期 记录 保存时间 数量 样例股票" [ref=e2056]:
+              - columnheader "日期" [ref=e2057]
+              - columnheader "记录" [ref=e2058]
+              - columnheader "保存时间" [ref=e2059]
+              - columnheader "数量" [ref=e2060]
+              - columnheader "样例股票" [ref=e2061]
+          - rowgroup [ref=e2062]:
+            - row "2026-06-01 末次 2026-06-01 11:55:49 150 002028 思源电气、600519 贵州茅台、301360 荣旗科技、603011 合锻智能、301439 泓淋电力" [ref=e2063]:
+              - cell "2026-06-01" [ref=e2064]
+              - cell "末次" [ref=e2065]:
+                - generic [ref=e2066]: 末次
+              - cell "2026-06-01 11:55:49" [ref=e2067]
+              - cell "150" [ref=e2068]
+              - cell "002028 思源电气、600519 贵州茅台、301360 荣旗科技、603011 合锻智能、301439 泓淋电力" [ref=e2069]
+            - row "2026-06-01 首次 2026-06-01 11:44:27 150 002028 思源电气、600519 贵州茅台、301360 荣旗科技、603011 合锻智能、301439 泓淋电力" [ref=e2070]:
+              - cell "2026-06-01" [ref=e2071]
+              - cell "首次" [ref=e2072]:
+                - generic [ref=e2073]: 首次
+              - cell "2026-06-01 11:44:27" [ref=e2074]
+              - cell "150" [ref=e2075]
+              - cell "002028 思源电气、600519 贵州茅台、301360 荣旗科技、603011 合锻智能、301439 泓淋电力" [ref=e2076]
+  - generic:
+    - generic:
+      - generic: 加载中...
+      - generic: 002028 分时

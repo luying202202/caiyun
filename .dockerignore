@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.idea/
+.arts/
+.git/
+*.csv
+picks_history/
+picks520_history/
+diag_history/
+.playwright-cli/
+.codeartsdoer/
