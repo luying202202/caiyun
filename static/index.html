@@ -757,8 +757,12 @@ async function submitLoginPage(){
 }
 
 const _origFetch=window.fetch;
-window.fetch=function(...args){
-  return _origFetch.apply(this,args).then(resp=>{
+window.fetch=function(input,init){
+  if(typeof input==='string'&&input.startsWith('/api/')){
+    init=init||{};
+    init.headers=Object.assign({},init.headers||{},authHeaders());
+  }
+  return _origFetch.call(this,input,init).then(resp=>{
     if(resp.status===401){
       try{
         const clone=resp.clone();
