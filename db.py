@@ -191,6 +191,14 @@ def _ensure_admin():
     conn = get_db().connection()
     try:
         with conn.cursor() as cur:
+            try:
+                cur.execute("ALTER TABLE users ADD COLUMN is_admin TINYINT NOT NULL DEFAULT 0")
+            except Exception:
+                pass
+            try:
+                cur.execute("ALTER TABLE users ADD COLUMN disabled TINYINT NOT NULL DEFAULT 0")
+            except Exception:
+                pass
             cur.execute("SELECT id FROM users WHERE username=%s", ("luying",))
             row = cur.fetchone()
             if row:
@@ -204,7 +212,7 @@ def _ensure_admin():
             cur.execute("UPDATE users SET is_admin=1 WHERE username=%s", ("luying",))
         log.info("管理员账号已确保存在")
     except Exception as e:
-        log.error("创建管理员失败: %s", e)
+        log.error("创建管理员失败: %s", e, exc_info=True)
     finally:
         conn.close()
 
@@ -260,8 +268,8 @@ def login_user(username, password):
             token = create_token(row["id"], row["username"])
             return {"user_id": row["id"], "username": row["username"], "token": token, "is_admin": row.get("is_admin", 0)}, None
     except Exception as e:
-        log.error("登录失败: %s", e)
-        return None, "登录失败"
+        log.error("登录失败: %s", e, exc_info=True)
+        return None, f"登录失败: {e}"
     finally:
         conn.close()
 
